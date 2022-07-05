@@ -12,5 +12,5 @@ The e-com app is a simple application with the following features:
 This repository is a based of a video tutorial on YouTube : Code With Stein
 
 # Credits
-@SteinOveHelset
+@https://github.com/SteinOveHelset
 
